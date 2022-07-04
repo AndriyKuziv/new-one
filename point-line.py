@@ -7,4 +7,4 @@ if a < 0: a = 0
 elif a > 1: a = 1
 
 res = math.sqrt( pow((x1 - x) + (a * (x2 - x1)), 2) + pow((y1 - y) + (a * (y2 - y1)), 2) )
-print(res)
+print("hehe")
