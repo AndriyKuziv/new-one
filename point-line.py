@@ -6,5 +6,5 @@ a = ( ((x - x1) * (x2 - x1)) + ((y - y1) * (y2 - y1)) ) / ( pow(x2 - x1, 2) + po
 if a < 0: a = 0
 
 res = math.sqrt( pow((x1 - x) + (a * (x2 - x1)), 2) + pow((y1 - y) + (a * (y2 - y1)), 2) )
-print("added smthng")
-print("hehe")
+#hehehe
+print(x+y)
